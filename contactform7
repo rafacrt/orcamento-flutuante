@@ -1,0 +1,24 @@
+
+<!-- Nome -->
+[text* your-name placeholder "Nome"]
+
+<!-- Telefone -->
+[text* your-phone placeholder "Telefone"]
+
+<!-- E-mail -->
+[email* your-email placeholder "E-mail"]
+
+<!-- Nome do Condomínio -->
+[text* condo-name placeholder "Nome do Condomínio"]
+
+<!-- Endereço -->
+[text* address placeholder "Endereço"]
+
+<!-- Quantas unidades -->
+[text* unit-count placeholder "Quantas unidades"]
+
+<!-- Serviços desejados -->
+[text* desired-services placeholder "Serviços desejados"]
+
+<!-- Botão de envio -->
+[submit "Enviar"]
